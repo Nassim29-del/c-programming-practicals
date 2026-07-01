@@ -68,8 +68,5 @@ c-programming-practicals/
 
 ## 👤 Author
 
-*(Add your name/GitHub username here)*
+*Nasim Bidel*
 
-## 📄 License
-
-*(Optional — add a license such as MIT if you'd like others to reuse this code)*
